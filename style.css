@@ -1,0 +1,17 @@
+body{
+padding: auto;
+margin: auto;
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+}
+#search{
+    background-color: #f0f0f1;
+    padding: 10px 50px 10px 500px;
+}
